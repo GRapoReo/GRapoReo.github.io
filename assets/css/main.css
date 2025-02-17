@@ -2900,8 +2900,8 @@
 			}
 
 		.wrapper.style1 {
-			background-color: #fafafa;
-			color: #999999;
+			background-color: #ff00ff;
+    			color: #999999;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
