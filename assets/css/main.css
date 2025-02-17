@@ -2878,7 +2878,7 @@
 	.wrapper {
 		padding: 6em 0 4em 0;
 		position: relative;
-		transition: all 0.3s ease-in-out;
+		transition: all 5s ease-in-out;
 	}
 
 		.wrapper .inner {
@@ -2901,9 +2901,9 @@
 			}
 
 		.wrapper.style1 {
-			background-color: #fda172;
+			background-color: #48d1cc;
     			color: #999999;
-			transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+			transition: background-color 5s ease-in-out, color 5s ease-in-out;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
@@ -3121,7 +3121,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
+			background-color: #001f3f;
 			color: #aed6f1;
 		}
 
